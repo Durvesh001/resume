@@ -1,0 +1,109 @@
+
+
+body{
+  font-size: 17px;
+  font-family: 'Merriweather', serif;
+    color: #40514E;
+
+}
+
+.head{
+  margin-left: 50px;
+  margin-top: 50px;
+
+
+}
+
+.Devyani{
+  display: inline;
+  position: relative;
+  left: 750px;
+  height: 200px;
+}
+
+
+
+
+.head1{
+  margin-bottom: 0;
+  font-size: 50px;
+  display: inline;
+  position: relative;
+  left: -210px;
+  top: -120px;
+  color: #66BFBF;
+  font-family: 'Zilla Slab', serif;
+
+
+}
+
+h2{
+  color: #66BFBF;
+    font-family: 'Zilla Slab', serif;
+}
+
+.head2{
+  margin-top: 5px;
+  font-size: 30px;
+  position: relative;
+  top: -120px;
+  font-family: 'Zilla Slab', serif;
+}
+
+.middle{
+  margin-left: 50px;
+  position: relative;
+}
+
+h2{
+  font-size: 30px;
+  margin: 0;
+
+}
+
+.skills{
+  position: relative;
+  top: 25px;
+  margin-left: 50px;
+}
+
+.exp{
+  display: inline;
+}
+
+hr{
+  border: dotted 6px;
+    color: black;
+    border-bottom: none;
+    width: 4%;
+    margin: 30px auto;
+}
+
+.details{
+  line-height: 1.5;
+}
+
+.ww{
+  position: relative;
+  left: 490px;
+}
+
+.wwx{
+  position: relative;
+  left: 450px;
+  padding-bottom: 30px;
+}
+
+.table{
+  margin-top: 25px;
+  text-align: center;
+
+}
+
+ tr:nth-child(odd) {
+  background-color: #ffe4e1;
+}
+
+ tr:nth-child(even) {
+  background-color:#fff5ee;
+}
